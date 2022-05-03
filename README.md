@@ -1,3 +1,13 @@
+This is a Fresh project Starter that you can clone and use it directly without set up.
+
+Next js, Tailwind css, Storybook and webpack
+
+Instructions :
+
+command 1 : git clone https://github.com/hktitof/FreshProjectStarter.git
+command 2 : yarn install
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
