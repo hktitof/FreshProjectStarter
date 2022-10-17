@@ -1,4 +1,6 @@
-This is a Fresh project Starter that you can clone and use it directly without set up.
+This is a Fresh project Starter that you can clone and use it directly without needing to set up.
+
+the following technlogies are existed in this repo, check package.json for more :
 
 Next js, Tailwind css, Storybook and webpack
 
